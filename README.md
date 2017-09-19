@@ -1,23 +1,4 @@
-# final-project-start
 
-This is the GitHub repo we will use to store our CSC 335 Final Project, Fall 2016
-
-
-
+This project is a replication of the game Pokémon Safari, where a player walks on a forest to collect Pokémon. The Player can also save the game progress and for that I used Serialization. Used inheritance where possible such as defining Pokémon, battle, items, map tiles for further ease of upgrades on the project.
 Team Name: ZonaSoft
-
-Project: Pokemon-Safari-New
-
-Project Manager: Miranda Motsinger
-
-
-All four team members make a commit that modifies this file with your name added below this line (leave this line here)
-
-1) Aryan Agrawal
-
-2) Dong Liang
-
-3) Daniel Tranfaglia
-
-4) Sean Pearson
 
